@@ -5,8 +5,6 @@
 
 	import { reduced_motion } from './reduced-motion';
 
-	goto('/<some>/<page>')
-
 	/** @type {import('./$types').PageData} */
 	export let data;
 
